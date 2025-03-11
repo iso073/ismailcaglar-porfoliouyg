@@ -1,0 +1,29 @@
+.navbar-nav .nav-item.active .nav-link {
+    border-bottom: 2px solid #00bcd4;
+    color: #00bcd4;
+  }
+
+  .container {
+    background-color: #f8f9fa; /* Açık gri arka plan */
+    padding: 50px;
+  }
+  
+  .col-md-6 h1 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+  }
+  
+  .col-md-6 p {
+    font-size: 1.2rem;
+    margin-bottom: 30px;
+  }
+  
+  .col-md-6 .btn {
+    padding: 15px 30px;
+    font-size: 1.1rem;
+  }
+
+  .footer i {
+    font-size: 1.2rem;
+    color: #555;
+  }
